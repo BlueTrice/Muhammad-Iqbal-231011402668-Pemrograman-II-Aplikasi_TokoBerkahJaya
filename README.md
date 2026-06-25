@@ -161,6 +161,6 @@ Silakan digunakan sebagai referensi pembelajaran dengan tetap menghargai karya d
 
 ## 👨‍💻 Author
 
-**Nama:** *Nama Kamu*  
+**Nama:** *Muhammad Iqbal*  
 **Program Studi:** Teknik Informatika  
 **Universitas:** Universitas Pamulang
